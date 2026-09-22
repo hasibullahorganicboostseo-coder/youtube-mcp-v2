@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+mcp
+google-api-python-client
